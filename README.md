@@ -1,6 +1,6 @@
 QAOA Probability Visualization – Ambassador Seating Problem
 
-Overview:
+.Overview:
 This project demonstrates the Quantum Approximate Optimization Algorithm (QAOA) applied to a combinatorial seating problem inspired by an Olympiad-style question. The problem asks:
 "Given a number of ambassadors, each with at most a certain number of enemies, can they be seated around a round table so that no one sits next to an enemy?"
 While traditionally solved using linear graph theory and combinatorial arguments, this project explores a quantum-inspired approach to the problem, providing a fresh perspective and visualization of how probabilities evolve towards optimal seating arrangements.
